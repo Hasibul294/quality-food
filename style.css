@@ -1,0 +1,56 @@
+body{
+    margin: 0;
+}
+h1{
+    font-size: 50px;
+}
+.web-name{
+    font-family: 'Dancing Script', cursive;
+    background-color: black;
+    color: chartreuse;
+    text-align: center;
+
+}
+.flexible-sec{
+    display: flex;
+    background-repeat: no-repeat;
+    margin-bottom: 100px;
+}
+.half-width{
+    width: 50%;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+.half-width img{
+    width: 70%;
+    margin-left: 20%;
+    margin-top: 10%;
+}
+.wellcome{
+    color: cornflowerblue;
+    font-family: 'Noto Serif', serif;
+}
+.bold{
+    color: #ff9800;
+}
+.order-btn{
+    text-decoration: none;
+    background-image: linear-gradient(to right, #e52d27 0%, #b31217  51%, #e52d27  100%);
+    color: white;
+    padding: 10px 45px;
+    margin-left: 30%;
+    border-radius: 20px;
+}
+.contact-btn{
+    text-decoration: none;
+    padding-top: 100px;
+    background-image: linear-gradient(to right, #e52d27 0%, #b31217  51%, #e52d27  100%);
+    color: white;
+    padding: 10px 45px;
+    margin-left: 20%;
+    border-radius: 20px;
+}
+.back-image{
+    background-image: url(images/shapes/Frame\ 59.jpg);
+    background-size: cover;
+}
