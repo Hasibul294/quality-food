@@ -135,3 +135,11 @@ footer{
 .quality{
     color: #ff9800;
 }
+.page-2{
+    text-align: center;
+    background-repeat: no-repeat;  
+}
+.page-2 img{
+    width: 600px;
+    height: auto;
+}
