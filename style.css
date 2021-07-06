@@ -71,14 +71,9 @@ h3{
 }
 .services{
     text-align: center;
-    /*margin-bottom: 50px;*/
-    padding: 20px;
+    padding-top: 30px;
 }
 .recipies p{
-    margin-left: 30%;
-    margin-right: 30%;
-}
-.services p{
     margin-left: 30%;
     margin-right: 30%;
 }
@@ -124,12 +119,19 @@ h3{
     border-radius: 100px;    
 }
 footer{
-    margin: 0;
     background-color: #2F4F4F;
-    background-size: 50px;
+    height: 180px;
+    width: auto;
 }
-footer h1, p{
+.foter-content h1{
     text-align: center;
-    margin-top: 10px;
-    margin-bottom: 10px;
+    padding-top: 20px;
+    color: white;
+}
+.foter-content p{
+    text-align: center;
+    color: white;
+}
+.quality{
+    color: #ff9800;
 }
