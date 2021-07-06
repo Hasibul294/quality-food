@@ -14,11 +14,11 @@ h3{
 }
 .web-name{
     font-family: 'Dancing Script', cursive;
-    background-color: #2F4F4F;
+    background-color: #17202A ;
     color: chartreuse;
     text-align: center;
     margin:0;
-    padding: 10px;
+    padding: 20px;
 
 }
 .flexible-sec{
@@ -119,7 +119,7 @@ h3{
     border-radius: 100px;    
 }
 footer{
-    background-color: #2F4F4F;
+    background-color: #17202A;
     height: 180px;
     width: auto;
 }
