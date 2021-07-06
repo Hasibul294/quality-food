@@ -4,6 +4,14 @@ body{
 h1{
     font-size: 50px;
 }
+p{
+    font-size: 20px;
+    text-align: justify;
+}
+h3{
+    font-size: 30px;
+    font-weight: 700;
+}
 .web-name{
     font-family: 'Dancing Script', cursive;
     background-color: black;
@@ -54,3 +62,34 @@ h1{
     background-image: url(images/shapes/Frame\ 59.jpg);
     background-size: cover;
 }
+.recipies{
+    text-align: center;
+    margin-bottom: 50px;
+
+}
+.recipies p{
+    margin-left: 30%;
+    margin-right: 30%;
+}
+.recipies-item{
+    display: flex;
+    background-repeat: no-repeat;
+    margin-bottom: 100px;
+}
+.all-item{
+    width: 30%;
+    margin-left: 1.5%;
+    margin-right: 1.5%;
+    padding: 20px;
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 20px;
+
+}
+.all-item img{
+    width:370px;
+    height: 300px;
+    border: 1px solid black;
+    border-radius: 20px;
+
+}
+
